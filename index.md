@@ -1,5 +1,9 @@
-## Yamini Mathur
 
-The website URL is https://yaminimathur.github.io/yamini.github.io/. I am working on making a website at the moment. Should be updated soon!
+<div class="home">
+
+<h1> Hi there, I'm Yamini Mathur! <h1>
+
+<p> The website URL is https://yaminimathur.github.io/yamini.github.io/. I am working on making a website at the moment. Should be updated soon! </p>
 
 
+</div>
